@@ -72,8 +72,3 @@ const words = ['katak', 'bapak', 'radar', 'repaper', 'issue']
 
 //TODO : find the biggest number
 const nestedArray = [18, 21, 56, 121, [122, 22, 66], 11, 6, [35, 82, 12, 29]]
-
-console.log(nestedArray[0].length);
-// for (let i = 0; i < nestedArray.length; i++) {
-//     if (nestedArray.length)    
-// }
